@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto Landing Page - Turismo</title>
-</head>
+    </head>
 <body>
     <div style="max-width: 800px; margin: 20px auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
         <h1 style="color: #0056b3;">🌍 Projeto Landing Page - Empresa de Turismo 🏖️</h1>
